@@ -1,0 +1,1 @@
+pyinstaller mainCatraca.py -i noun.ico --onefile
